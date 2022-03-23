@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: cf578d8d3d1adc743af0fbeefd84a6b0
+ModelImporter:
+  serializedVersion: 21100
+  internalIDToNameTable:
+  - first:
+      74: 5532277419335557747
+    second: Tree log|CylinderAction
+  - first:
+      74: 3496588739758104001
+    second: Branch.001|CylinderAction
+  - first:
+      74: 4611494541494211066
+    second: Branch.002|CylinderAction
+  - first:
+      74: -7165001793558020402
+    second: Branch.003|CylinderAction
+  - first:
+      74: -8727720104304348970
+    second: Branch.004|CylinderAction
+  - first:
+      74: -3905546114743305540
+    second: Branch.005|CylinderAction
+  - first:
+      74: -5634455753764378794
+    second: Branch.006|CylinderAction
+  - first:
+      74: -7804982856178942279
+    second: Branch.007|CylinderAction
+  - first:
+      74: 6921669780048358655
+    second: Branch.008|CylinderAction
+  - first:
+      74: -2694169767632924955
+    second: Branch.009|CylinderAction
+  - first:
+      74: 653379400838922605
+    second: Branch.010|CylinderAction
+  - first:
+      74: -1865349343298447229
+    second: Branch.011|CylinderAction
+  - first:
+      74: 3429138473360289745
+    second: Branch.012|CylinderAction
+  - first:
+      74: 3199849707082355413
+    second: Branch.013|CylinderAction
+  - first:
+      74: 2157489495099575481
+    second: Branch.014|CylinderAction
+  - first:
+      74: 7823960025665920282
+    second: Branch.015|CylinderAction
+  - first:
+      74: 2085606724234235603
+    second: Branch.016|CylinderAction
+  - first:
+      74: -5461119613357674495
+    second: Branch.017|CylinderAction
+  - first:
+      74: -2613351134324111312
+    second: Branch.018|CylinderAction
+  - first:
+      74: 8003660369066360520
+    second: Branch.019|CylinderAction
+  - first:
+      74: -6246333026046745317
+    second: Branch.020|CylinderAction
+  - first:
+      74: -6714817615146847201
+    second: Branch.021|CylinderAction
+  - first:
+      74: -3927214751314790118
+    second: Branch.022|CylinderAction
+  - first:
+      74: 8234433479820426132
+    second: Branch.023|CylinderAction
+  - first:
+      74: 7302545291089938592
+    second: Branch|CylinderAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree bark
+    second: {fileID: 2100000, guid: 1f6155db9d3b42548a3de9e702c47a10, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
