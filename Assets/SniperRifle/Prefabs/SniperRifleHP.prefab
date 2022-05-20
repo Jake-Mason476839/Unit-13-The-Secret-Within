@@ -108,8 +108,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 153908}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.222, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 422892}
   - {fileID: 486556}
@@ -260,7 +260,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7994573242856640430}
   - component: {fileID: 617560698411598400}
-  - component: {fileID: 1544518228554640217}
   m_Layer: 0
   m_Name: Scope cam
   m_TagString: Untagged
@@ -325,14 +324,6 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!81 &1544518228554640217
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 34619150685470025}
-  m_Enabled: 1
 --- !u!1 &462223237201402780
 GameObject:
   m_ObjectHideFlags: 0
